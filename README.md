@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository.
 <br>
-Author - Aarush Kulkarni
+Author - Aarush K
